@@ -1,0 +1,17 @@
+# Maven
+target/
+*.class
+.m2/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Credenciales sensibles
+src/main/resources/application.properties
+
+# OS
+.DS_Store
+Thumbs.db
